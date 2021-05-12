@@ -29,7 +29,7 @@ void dijkstra(int graph[V][V], int src)
 	int dist[V]; 
 	
 
-	bool sptSet[V]; // sptSet[i] will be true if vertex i is included in shortest
+	bool sptSet[V]; 
 	
 
 
